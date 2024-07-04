@@ -1,0 +1,353 @@
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\appsettings.json
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\WebApplication3.exe
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\WebApplication3.deps.json
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\WebApplication3.runtimeconfig.json
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\WebApplication3.dll
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\WebApplication3.pdb
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.csproj.AssemblyReference.cache
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.AssemblyInfo.cs
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication3.props
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication3.props
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication3.props
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\scopedcss\bundle\WebApplication3.styles.css
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\WebAppli.18867FDF.Up2Date
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.dll
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\refint\WebApplication3.dll
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.pdb
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.genruntimeconfig.cache
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\ref\WebApplication3.dll
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\mai duy\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\appsettings.json
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\libman.json
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\WebApplication3.exe
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\WebApplication3.deps.json
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\WebApplication3.runtimeconfig.json
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\WebApplication3.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\WebApplication3.pdb
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Dapper.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\dotenv.net.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\FluentAssertions.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Humanizer.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Scrutor.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\WebApplication3.csproj.AssemblyReference.cache
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\WebApplication3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\WebApplication3.AssemblyInfo.cs
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\WebApplication3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\WebApplication3.sourcelink.json
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication3.props
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication3.props
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication3.props
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\scopedcss\bundle\WebApplication3.styles.css
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\WebAppli.18867FDF.Up2Date
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\WebApplication3.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\refint\WebApplication3.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\WebApplication3.pdb
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\WebApplication3.genruntimeconfig.cache
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\obj\Debug\net8.0\ref\WebApplication3.dll
+C:\Users\mai duy\source\repos\TT62TH3-G2\API\WebApplication3\bin\Debug\net8.0\RestSharp.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\WebApplication3.exe
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\appsettings.Development.json
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\appsettings.json
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\libman.json
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\AutoMapper.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\CloudinaryDotNet.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Dapper.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\dotenv.net.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\FluentAssertions.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Google.Protobuf.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Humanizer.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\MailKit.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\System.Web.Http.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\MimeKit.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\MySql.Data.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\MySqlConnector.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\RestSharp.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Scrutor.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\System.CodeDom.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\ZstdSharp.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\WebApplication3.csproj.AssemblyReference.cache
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\WebApplication3.GeneratedMSBuildEditorConfig.editorconfig
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\WebApplication3.AssemblyInfoInputs.cache
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\WebApplication3.AssemblyInfo.cs
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\WebApplication3.csproj.CoreCompileInputs.cache
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\WebApplication3.MvcApplicationPartsAssemblyInfo.cs
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\WebApplication3.sourcelink.json
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\staticwebassets.build.json
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\staticwebassets.development.json
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication3.props
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication3.props
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication3.props
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\staticwebassets.pack.json
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\scopedcss\bundle\WebApplication3.styles.css
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\WebAppli.18867FDF.Up2Date
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\WebApplication3.dll
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\refint\WebApplication3.dll
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\WebApplication3.pdb
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\WebApplication3.deps.json
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\WebApplication3.runtimeconfig.json
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\WebApplication3.dll
+D:\fronten\DATN\API\WebApplication3\bin\Debug\net8.0\WebApplication3.pdb
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\WebApplication3.genruntimeconfig.cache
+D:\fronten\DATN\API\WebApplication3\obj\Debug\net8.0\ref\WebApplication3.dll
